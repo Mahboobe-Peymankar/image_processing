@@ -1,16 +1,16 @@
 import cv2
 
-my_image = cv2.imread("assignment1\HW4-1-6_deathsymbol\whiteboard.jpg")
+my_image = cv2.imread("assignment1\HW4-1-6_deathsymbol/first.jpg")
 print (my_image.shape)
 
 
 
-for i in range (30):
-    my_image [ i , 30 - i  : 30 + 10 - i ] = 0
+for i in range (100):
+    my_image [ i , 100 - i  : 100 + 40 - i ] = 0
 
 
-for i in range (10):
-    my_image [30 + i , 0 : 10 - i] = 0
+for i in range (40):
+    my_image [100 + i , 0 : 40 - i] = 0
         
 
      

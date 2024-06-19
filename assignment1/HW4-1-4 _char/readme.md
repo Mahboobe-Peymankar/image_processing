@@ -2,7 +2,7 @@
 
 In this problem, we generate M char like bellow:
 
-![Alt text](char.JPG)
+![Alt text](char.jpg)
 
 
 

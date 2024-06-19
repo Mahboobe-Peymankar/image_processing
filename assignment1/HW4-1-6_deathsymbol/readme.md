@@ -2,7 +2,7 @@
 
 In this problem, we add a death mark to a white picture
 
-![Alt text](death.JPG)
+![Alt text](death.jpg)
 
 
 

@@ -2,7 +2,7 @@
 
 In this problem, in a white board existed in the folder, a chess board is designed like bellow:
 
-![Alt text](chess.JPG)
+![Alt text](chess.jpg)
 
 You can run the following code to enjoy it . 
 

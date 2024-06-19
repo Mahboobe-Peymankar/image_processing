@@ -2,7 +2,7 @@
 
 In this problem, we rotate picture in this folder like bellow:
 
-![Alt text](3rotated.JPG)
+![Alt text](3rotated.jpg)
 
 
 

@@ -8,15 +8,15 @@ my_image [33:197 , 66 :68] = 0
 my_image [33:197 , 228:230] = 0
 my_image [195:197, 66 :230] = 0    
 k = 0
-for i in range (35, 195, 10):
+for i in range (35, 195, 20):
     
     w = 0
-    for j in range (68, 228 , 10):
+    for j in range (68, 228 , 20):
 
         if  (k + w ) % 2 == 0 :
-            my_image [i : i + 10 , j : j + 10] = 0
+            my_image [i : i + 20 , j : j + 20] = 0
         else :
-            my_image [i : i + 10 , j : j + 10] = 255
+            my_image [i : i + 20 , j : j + 20] = 255
         w += 1
     k += 1
 

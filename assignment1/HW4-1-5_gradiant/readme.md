@@ -2,7 +2,7 @@
 
 In this problem, we generate a gradiant picture like bellow:
 
-![Alt text](gradiant.JPG)
+![Alt text](gradiant.jpg)
 
 
 
